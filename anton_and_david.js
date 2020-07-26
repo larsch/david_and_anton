@@ -182,7 +182,6 @@ function keydown(e) {
         change(0.2);
 }
 
-
 window.addEventListener("load", resize);
 window.addEventListener("resize", resize)
 window.addEventListener("wheel", wheel);
